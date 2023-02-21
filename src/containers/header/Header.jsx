@@ -1,6 +1,6 @@
 import React from 'react';
 import people from '../../assets/people.png';
-import ai from '../../assets/aihead.png';
+import aihead from '../../assets/aihead.png';
 import './header.css';
 
 const Header = () => (
